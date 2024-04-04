@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+header {
+  padding: 10px;
+}
+
+.logo {
+  display: inline;
+  box-sizing: border-box;
+}
+
+.logo img {
+  width: 150px;
+}
+
+span {
+  color: rgb(5, 5, 72);
+}
+
+nav {
+  position: relative;
+  bottom: 18px;
+  margin-left: 30%;
+  display: inline;
+  box-sizing: border-box;
+}
+
+nav a {
+  text-decoration: none;
+}
+img {
+  width: 200px;
+}
+/*Sobre o curso*/
+.Sobre-curso {
+  border: 3px
+  solid;
+}
+.link {
+  display: inline-block;
+  height: 10px;
+  border: 3px
+  solid;
+  color: blue;
+  position: relative;
+  /*margin-top: 20px;*/
+}
